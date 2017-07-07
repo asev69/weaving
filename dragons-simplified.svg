@@ -1,0 +1,60 @@
+<svg width="60" height="70">
+  <defs>
+    <style type="text/css">
+      path { stroke-width: 3; stroke-linecap: round }
+      .orange { stroke: orange }
+      .blue { stroke: blue }
+      text { font-family: serif; font-size: x-small }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" style="fill: white"/>
+
+  <path d="M2 8 l6 -6" class="orange"/>
+  <path d="M12 2 l6 6" class="orange"/>
+  <path d="M22 8 l6 -6" class="orange"/>
+  <path d="M32 8 l6 -6" class="blue"/>
+  <path d="M42 8 l6 -6" class="orange"/>
+  <path d="M52 2 l6 6" class="orange"/>
+
+  <path d="M2 12 l6 6" class="orange"/>
+  <path d="M12 18 l6 -6" class="orange"/>
+  <path d="M22 18 l6 -6" class="blue"/>
+  <path d="M32 18 l6 -6" class="orange"/>
+  <path d="M42 12 l6 6" class="orange"/>
+  <path d="M52 18 l6 -6" class="orange"/>
+
+  <path d="M2 22 l6 6" class="blue"/>
+  <path d="M12 22 l6 6" class="orange"/>
+  <path d="M22 22 l6 6" class="blue"/>
+  <path d="M32 28 l6 -6" class="blue"/>
+  <path d="M42 28 l6 -6" class="orange"/>
+  <path d="M52 28 l6 -6" class="blue"/>
+
+  <path d="M2 38 l6 -6" class="blue"/>
+  <path d="M12 32 l6 6" class="blue"/>
+  <path d="M22 32 l6 6" class="orange"/>
+  <path d="M32 32 l6 6" class="blue"/>
+  <path d="M42 38 l6 -6" class="blue"/>
+  <path d="M52 32 l6 6" class="blue"/>
+
+  <path d="M2 42 l6 6" class="blue"/>
+  <path d="M12 48 l6 -6" class="blue"/>
+  <path d="M22 42 l6 6" class="blue"/>
+  <path d="M32 42 l6 6" class="orange"/>
+  <path d="M42 42 l6 6" class="blue"/>
+  <path d="M52 48 l6 -6" class="blue"/>
+
+  <path d="M2 58 l6 -6" class="blue"/>
+  <path d="M12 58 l6 -6" class="orange"/>
+  <path d="M22 58 l6 -6" class="blue"/>
+  <path d="M32 52 l6 6" class="blue"/>
+  <path d="M42 52 l6 6" class="orange"/>
+  <path d="M52 52 l6 6" class="blue"/>
+
+  <text x="1" y="69">S</text>
+  <text x="11" y="69">Z</text>
+  <text x="21" y="69">S</text>
+  <text x="31" y="69">Z</text>
+  <text x="41" y="69">S</text>
+  <text x="51" y="69">Z</text>
+</svg>
