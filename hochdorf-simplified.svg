@@ -1,0 +1,317 @@
+<svg width="160" height="180">
+  <defs>
+    <style type="text/css">
+      path { stroke-width: 3; stroke-linecap: round }
+      .orange { stroke: orange }
+      .blue { stroke: blue }
+      text { font-family: serif; font-size: x-small }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" style="fill: white"/>
+
+  <path d="M2 2 l6 6" class="blue"/>
+  <path d="M12 8 l6 -6" class="blue"/>
+  <path d="M22 2 l6 6" class="blue"/>
+  <path d="M32 8 l6 -6" class="blue"/>
+  <path d="M42 2 l6 6" class="blue"/>
+  <path d="M52 8 l6 -6" class="blue"/>
+  <path d="M62 2 l6 6" class="blue"/>
+  <path d="M72 8 l6 -6" class="blue"/>
+  <path d="M82 2 l6 6" class="blue"/>
+  <path d="M92 8 l6 -6" class="blue"/>
+  <path d="M102 2 l6 6" class="blue"/>
+  <path d="M112 8 l6 -6" class="blue"/>
+  <path d="M122 2 l6 6" class="blue"/>
+  <path d="M132 8 l6 -6" class="blue"/>
+  <path d="M142 2 l6 6" class="blue"/>
+  <path d="M152 8 l6 -6" class="blue"/>
+
+  <path d="M2 18 l6 -6" class="blue"/>
+  <path d="M12 12 l6 6" class="blue"/>
+  <path d="M22 18 l6 -6" class="blue"/>
+  <path d="M32 12 l6 6" class="blue"/>
+  <path d="M42 18 l6 -6" class="blue"/>
+  <path d="M52 12 l6 6" class="blue"/>
+  <path d="M62 18 l6 -6" class="blue"/>
+  <path d="M72 18 l6 -6" class="orange"/>
+  <path d="M82 12 l6 6" class="orange"/>
+  <path d="M92 12 l6 6" class="blue"/>
+  <path d="M102 18 l6 -6" class="blue"/>
+  <path d="M112 12 l6 6" class="blue"/>
+  <path d="M122 18 l6 -6" class="blue"/>
+  <path d="M132 12 l6 6" class="blue"/>
+  <path d="M142 18 l6 -6" class="blue"/>
+  <path d="M152 12 l6 6" class="blue"/>
+
+  <path d="M2 22 l6 6" class="blue"/>
+  <path d="M12 28 l6 -6" class="blue"/>
+  <path d="M22 22 l6 6" class="blue"/>
+  <path d="M32 28 l6 -6" class="blue"/>
+  <path d="M42 22 l6 6" class="blue"/>
+  <path d="M52 28 l6 -6" class="blue"/>
+  <path d="M62 28 l6 -6" class="orange"/>
+  <path d="M72 28 l6 -6" class="blue"/>
+  <path d="M82 28 l6 -6" class="orange"/>
+  <path d="M92 28 l6 -6" class="blue"/>
+  <path d="M102 22 l6 6" class="blue"/>
+  <path d="M112 28 l6 -6" class="blue"/>
+  <path d="M122 22 l6 6" class="blue"/>
+  <path d="M132 28 l6 -6" class="blue"/>
+  <path d="M142 22 l6 6" class="blue"/>
+  <path d="M152 28 l6 -6" class="blue"/>
+
+  <path d="M2 38 l6 -6" class="blue"/>
+  <path d="M12 32 l6 6" class="blue"/>
+  <path d="M22 38 l6 -6" class="blue"/>
+  <path d="M32 32 l6 6" class="blue"/>
+  <path d="M42 38 l6 -6" class="blue"/>
+  <path d="M52 32 l6 6" class="blue"/>
+  <path d="M62 32 l6 6" class="orange"/>
+  <path d="M72 32 l6 6" class="blue"/>
+  <path d="M82 32 l6 6" class="orange"/>
+  <path d="M92 38 l6 -6" class="orange"/>
+  <path d="M102 32 l6 6" class="orange"/>
+  <path d="M112 32 l6 6" class="blue"/>
+  <path d="M122 38 l6 -6" class="blue"/>
+  <path d="M132 32 l6 6" class="blue"/>
+  <path d="M142 38 l6 -6" class="blue"/>
+  <path d="M152 32 l6 6" class="blue"/>
+
+  <path d="M2 42 l6 6" class="blue"/>
+  <path d="M12 48 l6 -6" class="blue"/>
+  <path d="M22 42 l6 6" class="blue"/>
+  <path d="M32 48 l6 -6" class="blue"/>
+  <path d="M42 48 l6 -6" class="orange"/>
+  <path d="M52 42 l6 6" class="orange"/>
+  <path d="M62 48 l6 -6" class="orange"/>
+  <path d="M72 48 l6 -6" class="blue"/>
+  <path d="M82 42 l6 6" class="blue"/>
+  <path d="M92 48 l6 -6" class="blue"/>
+  <path d="M102 48 l6 -6" class="orange"/>
+  <path d="M112 48 l6 -6" class="blue"/>
+  <path d="M122 42 l6 6" class="blue"/>
+  <path d="M132 48 l6 -6" class="blue"/>
+  <path d="M142 42 l6 6" class="blue"/>
+  <path d="M152 48 l6 -6" class="blue"/>
+
+  <path d="M2 58 l6 -6" class="blue"/>
+  <path d="M12 52 l6 6" class="blue"/>
+  <path d="M22 58 l6 -6" class="blue"/>
+  <path d="M32 52 l6 6" class="blue"/>
+  <path d="M42 52 l6 6" class="orange"/>
+  <path d="M52 52 l6 6" class="blue"/>
+  <path d="M62 58 l6 -6" class="blue"/>
+  <path d="M72 52 l6 6" class="blue"/>
+  <path d="M82 58 l6 -6" class="blue"/>
+  <path d="M92 52 l6 6" class="blue"/>
+  <path d="M102 52 l6 6" class="orange"/>
+  <path d="M112 58 l6 -6" class="orange"/>
+  <path d="M122 52 l6 6" class="orange"/>
+  <path d="M132 52 l6 6" class="blue"/>
+  <path d="M142 58 l6 -6" class="blue"/>
+  <path d="M152 52 l6 6" class="blue"/>
+
+  <path d="M2 62 l6 6" class="blue"/>
+  <path d="M12 68 l6 -6" class="blue"/>
+  <path d="M22 68 l6 -6" class="orange"/>
+  <path d="M32 62 l6 6" class="orange"/>
+  <path d="M42 68 l6 -6" class="orange"/>
+  <path d="M52 68 l6 -6" class="blue"/>
+  <path d="M62 62 l6 6" class="blue"/>
+  <path d="M72 68 l6 -6" class="blue"/>
+  <path d="M82 62 l6 6" class="blue"/>
+  <path d="M92 68 l6 -6" class="blue"/>
+  <path d="M102 62 l6 6" class="blue"/>
+  <path d="M112 68 l6 -6" class="blue"/>
+  <path d="M122 68 l6 -6" class="orange"/>
+  <path d="M132 68 l6 -6" class="blue"/>
+  <path d="M142 62 l6 6" class="blue"/>
+  <path d="M152 68 l6 -6" class="blue"/>
+
+  <path d="M2 78 l6 -6" class="blue"/>
+  <path d="M12 78 l6 -6" class="orange"/>
+  <path d="M22 78 l6 -6" class="blue"/>
+  <path d="M32 72 l6 6" class="blue"/>
+  <path d="M42 78 l6 -6" class="blue"/>
+  <path d="M52 72 l6 6" class="blue"/>
+  <path d="M62 78 l6 -6" class="blue"/>
+  <path d="M72 78 l6 -6" class="orange"/>
+  <path d="M82 72 l6 6" class="orange"/>
+  <path d="M92 72 l6 6" class="blue"/>
+  <path d="M102 78 l6 -6" class="blue"/>
+  <path d="M112 72 l6 6" class="blue"/>
+  <path d="M122 72 l6 6" class="orange"/>
+  <path d="M132 78 l6 -6" class="orange"/>
+  <path d="M142 72 l6 6" class="orange"/>
+  <path d="M152 72 l6 6" class="blue"/>
+
+  <path d="M2 82 l6 6" class="blue"/>
+  <path d="M12 82 l6 6" class="orange"/>
+  <path d="M22 88 l6 -6" class="orange"/>
+  <path d="M32 82 l6 6" class="orange"/>
+  <path d="M42 82 l6 6" class="blue"/>
+  <path d="M52 88 l6 -6" class="blue"/>
+  <path d="M62 82 l6 6" class="blue"/>
+  <path d="M72 82 l6 6" class="orange"/>
+  <path d="M82 88 l6 -6" class="orange"/>
+  <path d="M92 88 l6 -6" class="blue"/>
+  <path d="M102 82 l6 6" class="blue"/>
+  <path d="M112 88 l6 -6" class="blue"/>
+  <path d="M122 82 l6 6" class="blue"/>
+  <path d="M132 88 l6 -6" class="blue"/>
+  <path d="M142 88 l6 -6" class="orange"/>
+  <path d="M152 88 l6 -6" class="blue"/>
+
+  <path d="M2 98 l6 -6" class="blue"/>
+  <path d="M12 92 l6 6" class="blue"/>
+  <path d="M22 98 l6 -6" class="blue"/>
+  <path d="M32 98 l6 -6" class="orange"/>
+  <path d="M42 98 l6 -6" class="blue"/>
+  <path d="M52 92 l6 6" class="blue"/>
+  <path d="M62 98 l6 -6" class="blue"/>
+  <path d="M72 92 l6 6" class="blue"/>
+  <path d="M82 98 l6 -6" class="blue"/>
+  <path d="M92 92 l6 6" class="blue"/>
+  <path d="M102 98 l6 -6" class="blue"/>
+  <path d="M112 98 l6 -6" class="orange"/>
+  <path d="M122 92 l6 6" class="orange"/>
+  <path d="M132 98 l6 -6" class="orange"/>
+  <path d="M142 98 l6 -6" class="blue"/>
+  <path d="M152 92 l6 6" class="blue"/>
+
+  <path d="M2 102 l6 6" class="blue"/>
+  <path d="M12 108 l6 -6" class="blue"/>
+  <path d="M22 102 l6 6" class="blue"/>
+  <path d="M32 102 l6 6" class="orange"/>
+  <path d="M42 108 l6 -6" class="orange"/>
+  <path d="M52 102 l6 6" class="orange"/>
+  <path d="M62 102 l6 6" class="blue"/>
+  <path d="M72 108 l6 -6" class="blue"/>
+  <path d="M82 102 l6 6" class="blue"/>
+  <path d="M92 108 l6 -6" class="blue"/>
+  <path d="M102 102 l6 6" class="blue"/>
+  <path d="M112 102 l6 6" class="orange"/>
+  <path d="M122 102 l6 6" class="blue"/>
+  <path d="M132 108 l6 -6" class="blue"/>
+  <path d="M142 102 l6 6" class="blue"/>
+  <path d="M152 108 l6 -6" class="blue"/>
+
+  <path d="M2 118 l6 -6" class="blue"/>
+  <path d="M12 112 l6 6" class="blue"/>
+  <path d="M22 118 l6 -6" class="blue"/>
+  <path d="M32 112 l6 6" class="blue"/>
+  <path d="M42 118 l6 -6" class="blue"/>
+  <path d="M52 118 l6 -6" class="orange"/>
+  <path d="M62 118 l6 -6" class="blue"/>
+  <path d="M72 112 l6 6" class="blue"/>
+  <path d="M82 118 l6 -6" class="blue"/>
+  <path d="M92 118 l6 -6" class="orange"/>
+  <path d="M102 112 l6 6" class="orange"/>
+  <path d="M112 118 l6 -6" class="orange"/>
+  <path d="M122 118 l6 -6" class="blue"/>
+  <path d="M132 112 l6 6" class="blue"/>
+  <path d="M142 118 l6 -6" class="blue"/>
+  <path d="M152 112 l6 6" class="blue"/>
+
+  <path d="M2 122 l6 6" class="blue"/>
+  <path d="M12 128 l6 -6" class="blue"/>
+  <path d="M22 122 l6 6" class="blue"/>
+  <path d="M32 128 l6 -6" class="blue"/>
+  <path d="M42 122 l6 6" class="blue"/>
+  <path d="M52 122 l6 6" class="orange"/>
+  <path d="M62 128 l6 -6" class="orange"/>
+  <path d="M72 122 l6 6" class="orange"/>
+  <path d="M82 122 l6 6" class="blue"/>
+  <path d="M92 122 l6 6" class="orange"/>
+  <path d="M102 122 l6 6" class="blue"/>
+  <path d="M112 128 l6 -6" class="blue"/>
+  <path d="M122 122 l6 6" class="blue"/>
+  <path d="M132 128 l6 -6" class="blue"/>
+  <path d="M142 122 l6 6" class="blue"/>
+  <path d="M152 128 l6 -6" class="blue"/>
+
+  <path d="M2 138 l6 -6" class="blue"/>
+  <path d="M12 132 l6 6" class="blue"/>
+  <path d="M22 138 l6 -6" class="blue"/>
+  <path d="M32 132 l6 6" class="blue"/>
+  <path d="M42 138 l6 -6" class="blue"/>
+  <path d="M52 132 l6 6" class="blue"/>
+  <path d="M62 138 l6 -6" class="blue"/>
+  <path d="M72 138 l6 -6" class="orange"/>
+  <path d="M82 138 l6 -6" class="blue"/>
+  <path d="M92 138 l6 -6" class="orange"/>
+  <path d="M102 138 l6 -6" class="blue"/>
+  <path d="M112 132 l6 6" class="blue"/>
+  <path d="M122 138 l6 -6" class="blue"/>
+  <path d="M132 132 l6 6" class="blue"/>
+  <path d="M142 138 l6 -6" class="blue"/>
+  <path d="M152 132 l6 6" class="blue"/>
+
+  <path d="M2 142 l6 6" class="blue"/>
+  <path d="M12 148 l6 -6" class="blue"/>
+  <path d="M22 142 l6 6" class="blue"/>
+  <path d="M32 148 l6 -6" class="blue"/>
+  <path d="M42 142 l6 6" class="blue"/>
+  <path d="M52 148 l6 -6" class="blue"/>
+  <path d="M62 142 l6 6" class="blue"/>
+  <path d="M72 142 l6 6" class="orange"/>
+  <path d="M82 148 l6 -6" class="orange"/>
+  <path d="M92 148 l6 -6" class="blue"/>
+  <path d="M102 142 l6 6" class="blue"/>
+  <path d="M112 148 l6 -6" class="blue"/>
+  <path d="M122 142 l6 6" class="blue"/>
+  <path d="M132 148 l6 -6" class="blue"/>
+  <path d="M142 142 l6 6" class="blue"/>
+  <path d="M152 148 l6 -6" class="blue"/>
+
+  <path d="M2 158 l6 -6" class="blue"/>
+  <path d="M12 152 l6 6" class="blue"/>
+  <path d="M22 158 l6 -6" class="blue"/>
+  <path d="M32 152 l6 6" class="blue"/>
+  <path d="M42 158 l6 -6" class="blue"/>
+  <path d="M52 152 l6 6" class="blue"/>
+  <path d="M62 158 l6 -6" class="blue"/>
+  <path d="M72 152 l6 6" class="blue"/>
+  <path d="M82 158 l6 -6" class="blue"/>
+  <path d="M92 152 l6 6" class="blue"/>
+  <path d="M102 158 l6 -6" class="blue"/>
+  <path d="M112 152 l6 6" class="blue"/>
+  <path d="M122 158 l6 -6" class="blue"/>
+  <path d="M132 152 l6 6" class="blue"/>
+  <path d="M142 158 l6 -6" class="blue"/>
+  <path d="M152 152 l6 6" class="blue"/>
+
+  <path d="M2 168 l6 -6" class="orange"/>
+  <path d="M12 162 l6 6" class="orange"/>
+  <path d="M22 168 l6 -6" class="orange"/>
+  <path d="M32 162 l6 6" class="orange"/>
+  <path d="M42 168 l6 -6" class="orange"/>
+  <path d="M52 162 l6 6" class="orange"/>
+  <path d="M62 168 l6 -6" class="orange"/>
+  <path d="M72 162 l6 6" class="orange"/>
+  <path d="M82 168 l6 -6" class="orange"/>
+  <path d="M92 162 l6 6" class="orange"/>
+  <path d="M102 168 l6 -6" class="orange"/>
+  <path d="M112 162 l6 6" class="orange"/>
+  <path d="M122 168 l6 -6" class="orange"/>
+  <path d="M132 162 l6 6" class="orange"/>
+  <path d="M142 168 l6 -6" class="orange"/>
+  <path d="M152 162 l6 6" class="orange"/>
+
+  <text x="1" y="179">S</text>
+  <text x="11" y="179">Z</text>
+  <text x="21" y="179">S</text>
+  <text x="31" y="179">Z</text>
+  <text x="41" y="179">S</text>
+  <text x="51" y="179">Z</text>
+  <text x="61" y="179">S</text>
+  <text x="71" y="179">Z</text>
+  <text x="81" y="179">S</text>
+  <text x="91" y="179">Z</text>
+  <text x="101" y="179">S</text>
+  <text x="111" y="179">Z</text>
+  <text x="121" y="179">S</text>
+  <text x="131" y="179">Z</text>
+  <text x="141" y="179">S</text>
+  <text x="151" y="179">Z</text>
+</svg>
