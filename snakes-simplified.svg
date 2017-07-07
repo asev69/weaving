@@ -1,0 +1,102 @@
+<svg width="60" height="130">
+  <defs>
+    <style type="text/css">
+      path { stroke-width: 3; stroke-linecap: round }
+      .orange { stroke: orange }
+      .blue { stroke: blue }
+      text { font-family: serif; font-size: x-small }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" style="fill: white"/>
+
+  <path d="M2 2 l6 6" class="blue"/>
+  <path d="M12 8 l6 -6" class="blue"/>
+  <path d="M22 8 l6 -6" class="orange"/>
+  <path d="M32 8 l6 -6" class="blue"/>
+  <path d="M42 2 l6 6" class="blue"/>
+  <path d="M52 8 l6 -6" class="blue"/>
+
+  <path d="M2 18 l6 -6" class="blue"/>
+  <path d="M12 18 l6 -6" class="orange"/>
+  <path d="M22 18 l6 -6" class="blue"/>
+  <path d="M32 18 l6 -6" class="orange"/>
+  <path d="M42 12 l6 6" class="orange"/>
+  <path d="M52 12 l6 6" class="blue"/>
+
+  <path d="M2 22 l6 6" class="blue"/>
+  <path d="M12 22 l6 6" class="orange"/>
+  <path d="M22 28 l6 -6" class="orange"/>
+  <path d="M32 22 l6 6" class="orange"/>
+  <path d="M42 28 l6 -6" class="orange"/>
+  <path d="M52 28 l6 -6" class="blue"/>
+
+  <path d="M2 38 l6 -6" class="blue"/>
+  <path d="M12 38 l6 -6" class="orange"/>
+  <path d="M22 32 l6 6" class="orange"/>
+  <path d="M32 38 l6 -6" class="orange"/>
+  <path d="M42 32 l6 6" class="orange"/>
+  <path d="M52 32 l6 6" class="blue"/>
+
+  <path d="M2 42 l6 6" class="blue"/>
+  <path d="M12 42 l6 6" class="orange"/>
+  <path d="M22 42 l6 6" class="blue"/>
+  <path d="M32 42 l6 6" class="orange"/>
+  <path d="M42 48 l6 -6" class="orange"/>
+  <path d="M52 48 l6 -6" class="blue"/>
+
+  <path d="M2 58 l6 -6" class="blue"/>
+  <path d="M12 52 l6 6" class="blue"/>
+  <path d="M22 52 l6 6" class="orange"/>
+  <path d="M32 52 l6 6" class="blue"/>
+  <path d="M42 58 l6 -6" class="blue"/>
+  <path d="M52 52 l6 6" class="blue"/>
+
+  <path d="M2 62 l6 6" class="blue"/>
+  <path d="M12 68 l6 -6" class="blue"/>
+  <path d="M22 62 l6 6" class="blue"/>
+  <path d="M32 62 l6 6" class="orange"/>
+  <path d="M42 62 l6 6" class="blue"/>
+  <path d="M52 68 l6 -6" class="blue"/>
+
+  <path d="M2 78 l6 -6" class="blue"/>
+  <path d="M12 78 l6 -6" class="orange"/>
+  <path d="M22 72 l6 6" class="orange"/>
+  <path d="M32 72 l6 6" class="blue"/>
+  <path d="M42 72 l6 6" class="orange"/>
+  <path d="M52 72 l6 6" class="blue"/>
+
+  <path d="M2 82 l6 6" class="blue"/>
+  <path d="M12 82 l6 6" class="orange"/>
+  <path d="M22 88 l6 -6" class="orange"/>
+  <path d="M32 82 l6 6" class="orange"/>
+  <path d="M42 88 l6 -6" class="orange"/>
+  <path d="M52 88 l6 -6" class="blue"/>
+
+  <path d="M2 98 l6 -6" class="blue"/>
+  <path d="M12 98 l6 -6" class="orange"/>
+  <path d="M22 92 l6 6" class="orange"/>
+  <path d="M32 98 l6 -6" class="orange"/>
+  <path d="M42 92 l6 6" class="orange"/>
+  <path d="M52 92 l6 6" class="blue"/>
+
+  <path d="M2 102 l6 6" class="blue"/>
+  <path d="M12 102 l6 6" class="orange"/>
+  <path d="M22 108 l6 -6" class="orange"/>
+  <path d="M32 108 l6 -6" class="blue"/>
+  <path d="M42 108 l6 -6" class="orange"/>
+  <path d="M52 108 l6 -6" class="blue"/>
+
+  <path d="M2 118 l6 -6" class="blue"/>
+  <path d="M12 112 l6 6" class="blue"/>
+  <path d="M22 118 l6 -6" class="blue"/>
+  <path d="M32 118 l6 -6" class="orange"/>
+  <path d="M42 118 l6 -6" class="blue"/>
+  <path d="M52 112 l6 6" class="blue"/>
+
+  <text x="1" y="129">S</text>
+  <text x="11" y="129">Z</text>
+  <text x="21" y="129">S</text>
+  <text x="31" y="129">Z</text>
+  <text x="41" y="129">S</text>
+  <text x="51" y="129">Z</text>
+</svg>
