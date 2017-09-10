@@ -7,10 +7,10 @@
       .light { fill: url(#light-gradient) }
     </style>
     <linearGradient id="light-gradient">
-      <stop offset="0%" stop-color="#FC6" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#FC6"/>
-      <stop offset="70%" stop-color="#FC6"/>
-      <stop offset="100%" stop-color="#FC6" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#FD9" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#FD9"/>
+      <stop offset="70%" stop-color="#FD9"/>
+      <stop offset="100%" stop-color="#FD9" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="dark1-gradient">
       <stop offset="0%" stop-color="darkgreen" stop-opacity="0"/>

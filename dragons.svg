@@ -1,20 +1,38 @@
-<svg width="1120" height="2000">
+<svg width="1120" height="2048">
   <defs>
     <style type="text/css">
-      .black { fill: #000; stroke: #FFF; stroke-width: .4 }
-      .dark { fill: #C33; stroke: #000; stroke-width: .4 }
-      .light { fill: #FC6; stroke: #000; stroke-width: .4 }
+      .black { fill: url(#black-gradient) }
+      .dark { fill: url(#dark-gradient) }
+      .light { fill: url(#light-gradient) }
     </style>
+    <linearGradient id="light-gradient">
+      <stop offset="0%" stop-color="#FC6" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#FC6"/>
+      <stop offset="70%" stop-color="#FC6"/>
+      <stop offset="100%" stop-color="#FC6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dark-gradient">
+      <stop offset="0%" stop-color="#C33" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#C33"/>
+      <stop offset="70%" stop-color="#C33"/>
+      <stop offset="100%" stop-color="#C33" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="black-gradient">
+      <stop offset="0%" stop-color="#222" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#222"/>
+      <stop offset="70%" stop-color="#222"/>
+      <stop offset="100%" stop-color="#222" stop-opacity="0"/>
+    </linearGradient>
   </defs>
   
-  <rect width="100%" height="100%" style="fill: white"/>
-  
-  <g transform="matrix(1, 0, 0, -1.6, 0, 2000)">
+  <rect width="100%" height="100%" style="#000"/>
+
+  <g transform="matrix(1, 0, 0, -1.6, 0, 2048)">
     <!-- 1 -->
-    <path d="M0 0 h10 v10 h-10 Z" class="dark"/>
-    <path d="M10 0 h10 v10 h-10 Z" class="dark"/>
-    <path d="M20 0 h10 v10 h-10 Z" class="dark"/>
-    <path d="M30 0 h10 v10 h-10 Z" class="dark"/>
+    <path d="M0 0 v10 h10 v-10 Z" class="dark"/>
+    <path d="M10 0 v10 h10 v-10 Z" class="dark"/>
+    <path d="M20 0 v10 h10 v-10 Z" class="dark"/>
+    <path d="M30 0 v10 h10 v-10 Z" class="dark"/>
     <path d="M40 0 h10 v10 h-10 Z" class="dark"/>
     <path d="M50 0 h10 v10 h-10 Z" class="dark"/>
     <path d="M60 0 h10 v10 h-10 Z" class="dark"/>
@@ -38,15 +56,15 @@
     <path d="M240 0 h10 v10 h-10 Z" class="dark"/>
     <path d="M250 0 h10 v10 h-10 Z" class="dark"/>
     <path d="M260 0 h10 v10 h-10 Z" class="dark"/>
-    <path d="M270 0 h10 v10 h-10 Z" class="dark"/>
-    <path d="M280 0 h10 v10 h-10 Z" class="black"/>
-    <path d="M290 0 h10 v10 h-10 Z" class="black"/>
-    <path d="M300 0 h10 v10 h-10 Z" class="light"/>
-    <path d="M310 0 h10 v10 h-10 Z" class="light"/>
-    <path d="M320 0 h10 v10 h-10 Z" class="light"/>
-    <path d="M330 0 h10 v10 h-10 Z" class="light"/>
-    <path d="M340 0 h10 v10 h-10 Z" class="black"/>
-    <path d="M350 0 h10 v10 h-10 Z" class="black"/>
+    <path d="M270 0 v10 h10 v-10 Z" class="dark"/>
+    <path d="M280 0 v10 h10 v-10 Z" class="black"/>
+    <path d="M290 0 v10 h10 v-10 Z" class="black"/>
+    <path d="M300 0 v10 h10 v-10 Z" class="light"/>
+    <path d="M310 0 v10 h10 v-10 Z" class="light"/>
+    <path d="M320 0 v10 h10 v-10 Z" class="light"/>
+    <path d="M330 0 v10 h10 v-10 Z" class="light"/>
+    <path d="M340 0 v10 h10 v-10 Z" class="black"/>
+    <path d="M350 0 v10 h10 v-10 Z" class="black"/>
     <path d="M360 0 h10 v10 h-10 Z" class="dark"/>
     <path d="M370 0 h10 v10 h-10 Z" class="dark"/>
     <path d="M380 0 h10 v10 h-10 Z" class="dark"/>
@@ -148,18 +166,18 @@
     <path d="M210 10 h10 v10 h-10 Z" class="black"/>
     <path d="M220 10 h10 v10 h-10 Z" class="black"/>
     <path d="M230 10 h10 v10 h-10 Z" class="black"/>
-    <path d="M240 10 h10 v10 h-10 Z" class="black"/>
-    <path d="M250 10 h10 v10 h-10 Z" class="black"/>
-    <path d="M260 10 h10 v10 h-10 Z" class="black"/>
-    <path d="M270 10 h10 v10 h-10 Z" class="dark"/>
-    <path d="M280 10 h10 v10 h-10 Z" class="dark"/>
-    <path d="M290 10 h10 v10 h-10 Z" class="black"/>
-    <path d="M300 10 h10 v10 h-10 Z" class="black"/>
-    <path d="M310 10 h10 v10 h-10 Z" class="light"/>
-    <path d="M320 10 h10 v10 h-10 Z" class="light"/>
-    <path d="M330 10 h10 v10 h-10 Z" class="black"/>
-    <path d="M340 10 h10 v10 h-10 Z" class="black"/>
-    <path d="M350 10 h10 v10 h-10 Z" class="black"/>
+    <path d="M240 10 v10 h10 v-10 Z" class="black"/>
+    <path d="M250 10 v10 h10 v-10 Z" class="black"/>
+    <path d="M260 10 v10 h10 v-10 Z" class="black"/>
+    <path d="M270 10 v10 h10 v-10 Z" class="dark"/>
+    <path d="M280 10 v10 h10 v-10 Z" class="dark"/>
+    <path d="M290 10 v10 h10 v-10 Z" class="black"/>
+    <path d="M300 10 v10 h10 v-10 Z" class="black"/>
+    <path d="M310 10 v10 h10 v-10 Z" class="light"/>
+    <path d="M320 10 v10 h10 v-10 Z" class="light"/>
+    <path d="M330 10 v10 h10 v-10 Z" class="black"/>
+    <path d="M340 10 v10 h10 v-10 Z" class="black"/>
+    <path d="M350 10 v10 h10 v-10 Z" class="black"/>
     <path d="M360 10 h10 v10 h-10 Z" class="black"/>
     <path d="M370 10 h10 v10 h-10 Z" class="black"/>
     <path d="M380 10 h10 v10 h-10 Z" class="black"/>
@@ -261,17 +279,17 @@
     <path d="M210 20 h10 v10 h-10 Z" class="light"/>
     <path d="M220 20 h10 v10 h-10 Z" class="light"/>
     <path d="M230 20 h10 v10 h-10 Z" class="light"/>
-    <path d="M240 20 h10 v10 h-10 Z" class="black"/>
-    <path d="M250 20 h10 v10 h-10 Z" class="black"/>
-    <path d="M260 20 h10 v10 h-10 Z" class="dark"/>
-    <path d="M270 20 h10 v10 h-10 Z" class="dark"/>
-    <path d="M280 20 h10 v10 h-10 Z" class="dark"/>
-    <path d="M290 20 h10 v10 h-10 Z" class="dark"/>
-    <path d="M300 20 h10 v10 h-10 Z" class="black"/>
-    <path d="M310 20 h10 v10 h-10 Z" class="black"/>
-    <path d="M320 20 h10 v10 h-10 Z" class="light"/>
-    <path d="M330 20 h10 v10 h-10 Z" class="light"/>
-    <path d="M340 20 h10 v10 h-10 Z" class="light"/>
+    <path d="M240 20 v10 h10 v-10 Z" class="black"/>
+    <path d="M250 20 v10 h10 v-10 Z" class="black"/>
+    <path d="M260 20 v10 h10 v-10 Z" class="dark"/>
+    <path d="M270 20 v10 h10 v-10 Z" class="dark"/>
+    <path d="M280 20 v10 h10 v-10 Z" class="dark"/>
+    <path d="M290 20 v10 h10 v-10 Z" class="dark"/>
+    <path d="M300 20 v10 h10 v-10 Z" class="black"/>
+    <path d="M310 20 v10 h10 v-10 Z" class="black"/>
+    <path d="M320 20 v10 h10 v-10 Z" class="light"/>
+    <path d="M330 20 v10 h10 v-10 Z" class="light"/>
+    <path d="M340 20 v10 h10 v-10 Z" class="light"/>
     <path d="M350 20 h10 v10 h-10 Z" class="light"/>
     <path d="M360 20 h10 v10 h-10 Z" class="light"/>
     <path d="M370 20 h10 v10 h-10 Z" class="light"/>
@@ -373,18 +391,18 @@
     <path d="M200 30 h10 v10 h-10 Z" class="black"/>
     <path d="M210 30 h10 v10 h-10 Z" class="light"/>
     <path d="M220 30 h10 v10 h-10 Z" class="light"/>
-    <path d="M230 30 h10 v10 h-10 Z" class="black"/>
-    <path d="M240 30 h10 v10 h-10 Z" class="black"/>
-    <path d="M250 30 h10 v10 h-10 Z" class="dark"/>
-    <path d="M260 30 h10 v10 h-10 Z" class="dark"/>
-    <path d="M270 30 h10 v10 h-10 Z" class="black"/>
-    <path d="M280 30 h10 v10 h-10 Z" class="black"/>
-    <path d="M290 30 h10 v10 h-10 Z" class="dark"/>
-    <path d="M300 30 h10 v10 h-10 Z" class="dark"/>
-    <path d="M310 30 h10 v10 h-10 Z" class="black"/>
-    <path d="M320 30 h10 v10 h-10 Z" class="black"/>
-    <path d="M330 30 h10 v10 h-10 Z" class="light"/>
-    <path d="M340 30 h10 v10 h-10 Z" class="light"/>
+    <path d="M230 30 v10 h10 v-10 Z" class="black"/>
+    <path d="M240 30 v10 h10 v-10 Z" class="black"/>
+    <path d="M250 30 v10 h10 v-10 Z" class="dark"/>
+    <path d="M260 30 v10 h10 v-10 Z" class="dark"/>
+    <path d="M270 30 v10 h10 v-10 Z" class="black"/>
+    <path d="M280 30 v10 h10 v-10 Z" class="black"/>
+    <path d="M290 30 v10 h10 v-10 Z" class="dark"/>
+    <path d="M300 30 v10 h10 v-10 Z" class="dark"/>
+    <path d="M310 30 v10 h10 v-10 Z" class="black"/>
+    <path d="M320 30 v10 h10 v-10 Z" class="black"/>
+    <path d="M330 30 v10 h10 v-10 Z" class="light"/>
+    <path d="M340 30 v10 h10 v-10 Z" class="light"/>
     <path d="M350 30 h10 v10 h-10 Z" class="black"/>
     <path d="M360 30 h10 v10 h-10 Z" class="black"/>
     <path d="M370 30 h10 v10 h-10 Z" class="light"/>
@@ -14137,5 +14155,344 @@
     <path d="M1100 1240 h10 v10 h-10 Z" class="dark"/>
     <path d="M1110 1240 h10 v10 h-10 Z" class="dark"/>
     <!-- 126 -->
+    <path d="M0 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M10 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M20 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M30 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M40 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M50 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M60 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M70 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M80 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M90 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M100 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M110 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M120 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M130 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M140 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M150 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M160 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M170 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M180 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M190 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M200 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M210 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M220 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M230 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M240 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M250 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M260 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M270 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M280 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M290 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M300 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M310 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M320 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M330 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M340 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M350 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M360 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M370 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M380 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M390 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M400 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M410 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M420 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M430 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M440 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M450 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M460 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M470 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M480 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M490 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M500 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M510 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M520 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M530 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M540 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M550 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M560 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M570 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M580 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M590 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M600 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M610 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M620 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M630 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M640 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M650 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M660 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M670 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M680 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M690 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M700 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M710 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M720 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M730 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M740 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M750 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M760 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M770 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M780 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M790 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M800 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M810 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M820 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M830 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M840 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M850 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M860 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M870 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M880 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M890 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M900 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M910 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M920 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M930 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M940 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M950 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M960 1250 h10 v10 h-10 Z" class="dark"/>
+    <path d="M970 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M980 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M990 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M1000 1250 h10 v10 h-10 Z" class="light"/>
+    <path d="M1010 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1020 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1030 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1040 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1050 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1060 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1070 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1080 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1090 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1100 1250 h10 v10 h-10 Z" class="black"/>
+    <path d="M1110 1250 h10 v10 h-10 Z" class="dark"/>
+    <!-- 127 -->
+    <path d="M0 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M10 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M20 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M30 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M40 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M50 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M60 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M70 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M80 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M90 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M100 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M110 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M120 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M130 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M140 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M150 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M160 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M170 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M180 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M190 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M200 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M210 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M220 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M230 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M240 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M250 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M260 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M270 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M280 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M290 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M300 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M310 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M320 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M330 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M340 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M350 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M360 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M370 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M380 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M390 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M400 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M410 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M420 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M430 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M440 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M450 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M460 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M470 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M480 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M490 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M500 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M510 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M520 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M530 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M540 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M550 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M560 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M570 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M580 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M590 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M600 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M610 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M620 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M630 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M640 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M650 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M660 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M670 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M680 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M690 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M700 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M710 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M720 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M730 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M740 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M750 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M760 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M770 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M780 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M790 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M800 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M810 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M820 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M830 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M840 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M850 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M860 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M870 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M880 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M890 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M900 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M910 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M920 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M930 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M940 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M950 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M960 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M970 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M980 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M990 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M1000 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M1010 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M1020 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M1030 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M1040 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M1050 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M1060 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M1070 1260 h10 v10 h-10 Z" class="light"/>
+    <path d="M1080 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M1090 1260 h10 v10 h-10 Z" class="black"/>
+    <path d="M1100 1260 h10 v10 h-10 Z" class="dark"/>
+    <path d="M1110 1260 h10 v10 h-10 Z" class="dark"/>
+    <!-- 128 -->
+    <path d="M0 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M10 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M20 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M30 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M40 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M50 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M60 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M70 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M80 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M90 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M100 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M110 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M120 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M130 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M140 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M150 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M160 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M170 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M180 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M190 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M200 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M210 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M220 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M230 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M240 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M250 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M260 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M270 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M280 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M290 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M300 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M310 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M320 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M330 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M340 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M350 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M360 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M370 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M380 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M390 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M400 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M410 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M420 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M430 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M440 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M450 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M460 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M470 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M480 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M490 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M500 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M510 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M520 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M530 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M540 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M550 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M560 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M570 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M580 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M590 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M600 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M610 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M620 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M630 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M640 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M650 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M660 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M670 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M680 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M690 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M700 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M710 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M720 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M730 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M740 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M750 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M760 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M770 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M780 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M790 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M800 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M810 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M820 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M830 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M840 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M850 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M860 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M870 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M880 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M890 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M900 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M910 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M920 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M930 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M940 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M950 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M960 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M970 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M980 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M990 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M1000 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M1010 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M1020 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M1030 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M1040 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M1050 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M1060 1270 h10 v10 h-10 Z" class="light"/>
+    <path d="M1070 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M1080 1270 h10 v10 h-10 Z" class="black"/>
+    <path d="M1090 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M1100 1270 h10 v10 h-10 Z" class="dark"/>
+    <path d="M1110 1270 h10 v10 h-10 Z" class="black"/>
+    <!-- 129 -->
   </g>
 </svg>

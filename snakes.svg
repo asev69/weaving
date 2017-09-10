@@ -1,14 +1,31 @@
 <svg width="120" height="384">
   <defs>
     <style type="text/css">
-      .light { fill: #FC6; stroke: black; stroke-width: .4 }
-      .dark { fill: #C33; stroke: black; stroke-width: .4 }
+      .black { fill: url(#black-gradient) }
+      .dark { fill: url(#dark-gradient) }
+      .light { fill: url(#light-gradient) }
     </style>
+    <linearGradient id="light-gradient">
+      <stop offset="0%" stop-color="#FC6" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#FC6"/>
+      <stop offset="70%" stop-color="#FC6"/>
+      <stop offset="100%" stop-color="#FC6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dark-gradient">
+      <stop offset="0%" stop-color="#C33" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#C33"/>
+      <stop offset="70%" stop-color="#C33"/>
+      <stop offset="100%" stop-color="#C33" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="black-gradient">
+      <stop offset="0%" stop-color="#222" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#222"/>
+      <stop offset="70%" stop-color="#222"/>
+      <stop offset="100%" stop-color="#222" stop-opacity="0"/>
+    </linearGradient>
   </defs>
   <g transform="matrix(1, 0, 0, -1.6, 0, 384)">
-    <!--
-    <rect width="100%" height="100%" style="fill: white"/>
-    -->
+    <rect width="100%" height="100%" style="fill: #000"/>
     <!-- 1 -->
     <path d="M0 0 h10 v10 h-10 Z" class="light"/>
     <path d="M10 0 h10 v10 h-10 Z" class="dark"/>

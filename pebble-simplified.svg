@@ -3,17 +3,22 @@
     <style type="text/css">
       path { stroke-width: 3; stroke-linecap: round }
       .bg1 { stroke: darkgreen }
-      .bg2 { stroke: indigo }
+      .bg2 { stroke: navy }
       .fg { stroke: orange } 
     </style>
   </defs>
   <g transform="matrix(1, 0, 0, -1, 0, 240)">
     <rect width="100%" height="100%" style="fill: white"/>
+
+<!--
+
+-->
+
     <!-- 1 -->
-    <path d="M2 8 l6 -6" class="bg2"/>
-    <path d="M12 8 l6 -6" class="fg"/>
-    <path d="M22 8 l6 -6" class="bg2"/>
-    <path d="M32 2 l6 6" class="bg2"/>
+    <path d="M2 2 l6 6" class="fg"/>
+    <path d="M12 2 l6 6" class="bg2"/>
+    <path d="M22 2 l6 6" class="fg"/>
+    <path d="M32 8 l6 -6" class="fg"/>
     <path d="M42 8 l6 -6" class="bg1"/>
     <path d="M52 2 l6 6" class="bg1"/>
     <path d="M62 8 l6 -6" class="bg1"/>
@@ -44,15 +49,15 @@
     <path d="M312 2 l6 6" class="bg1"/>
     <path d="M322 8 l6 -6" class="bg1"/>
     <path d="M332 2 l6 6" class="bg1"/>
-    <path d="M342 8 l6 -6" class="bg2"/>
+    <path d="M342 2 l6 6" class="fg"/>
     <path d="M352 2 l6 6" class="bg2"/>
     <path d="M362 2 l6 6" class="fg"/>
-    <path d="M372 2 l6 6" class="bg2"/>
+    <path d="M372 8 l6 -6" class="fg"/>
     <!-- 2 -->
-    <path d="M2 18 l6 -6" class="fg"/>
-    <path d="M12 18 l6 -6" class="bg2"/>
-    <path d="M22 18 l6 -6" class="fg"/>
-    <path d="M32 12 l6 6" class="fg"/>
+    <path d="M2 12 l6 6" class="bg2"/>
+    <path d="M12 12 l6 6" class="fg"/>
+    <path d="M22 12 l6 6" class="bg2"/>
+    <path d="M32 18 l6 -6" class="bg2"/>
     <path d="M42 12 l6 6" class="bg1"/>
     <path d="M52 18 l6 -6" class="bg1"/>
     <path d="M62 12 l6 6" class="bg1"/>
@@ -83,15 +88,15 @@
     <path d="M312 18 l6 -6" class="bg1"/>
     <path d="M322 12 l6 6" class="bg1"/>
     <path d="M332 18 l6 -6" class="bg1"/>
-    <path d="M342 18 l6 -6" class="fg"/>
+    <path d="M342 12 l6 6" class="bg2"/>
     <path d="M352 12 l6 6" class="fg"/>
     <path d="M362 12 l6 6" class="bg2"/>
-    <path d="M372 12 l6 6" class="fg"/>
+    <path d="M372 18 l6 -6" class="bg2"/>
     <!-- 3 -->
-    <path d="M2 22 l6 6" class="fg"/>
+    <path d="M2 28 l6 -6" class="bg2"/>
     <path d="M12 22 l6 6" class="bg2"/>
     <path d="M22 22 l6 6" class="fg"/>
-    <path d="M32 28 l6 -6" class="fg"/>
+    <path d="M32 22 l6 6" class="bg2"/>
     <path d="M42 28 l6 -6" class="bg1"/>
     <path d="M52 22 l6 6" class="bg1"/>
     <path d="M62 28 l6 -6" class="bg1"/>
@@ -122,15 +127,15 @@
     <path d="M312 22 l6 6" class="bg1"/>
     <path d="M322 28 l6 -6" class="bg1"/>
     <path d="M332 22 l6 6" class="bg1"/>
-    <path d="M342 22 l6 6" class="fg"/>
-    <path d="M352 28 l6 -6" class="fg"/>
-    <path d="M362 28 l6 -6" class="bg2"/>
-    <path d="M372 28 l6 -6" class="fg"/>
+    <path d="M342 28 l6 -6" class="bg2"/>
+    <path d="M352 22 l6 6" class="bg2"/>
+    <path d="M362 22 l6 6" class="fg"/>
+    <path d="M372 22 l6 6" class="bg2"/>
     <!-- 4 -->
-    <path d="M2 32 l6 6" class="bg2"/>
+    <path d="M2 38 l6 -6" class="fg"/>
     <path d="M12 32 l6 6" class="fg"/>
     <path d="M22 32 l6 6" class="bg2"/>
-    <path d="M32 38 l6 -6" class="bg2"/>
+    <path d="M32 32 l6 6" class="fg"/>
     <path d="M42 32 l6 6" class="bg1"/>
     <path d="M52 38 l6 -6" class="bg1"/>
     <path d="M62 32 l6 6" class="bg1"/>
@@ -161,15 +166,15 @@
     <path d="M312 38 l6 -6" class="bg1"/>
     <path d="M322 32 l6 6" class="bg1"/>
     <path d="M332 38 l6 -6" class="bg1"/>
-    <path d="M342 32 l6 6" class="bg2"/>
-    <path d="M352 38 l6 -6" class="bg2"/>
-    <path d="M362 38 l6 -6" class="fg"/>
-    <path d="M372 38 l6 -6" class="bg2"/>
+    <path d="M342 38 l6 -6" class="fg"/>
+    <path d="M352 32 l6 6" class="fg"/>
+    <path d="M362 32 l6 6" class="bg2"/>
+    <path d="M372 32 l6 6" class="fg"/>
     <!-- 5 -->
-    <path d="M2 48 l6 -6" class="bg2"/>
-    <path d="M12 42 l6 6" class="bg2"/>
-    <path d="M22 42 l6 6" class="fg"/>
-    <path d="M32 42 l6 6" class="bg2"/>
+    <path d="M2 42 l6 6" class="fg"/>
+    <path d="M12 48 l6 -6" class="fg"/>
+    <path d="M22 48 l6 -6" class="bg2"/>
+    <path d="M32 48 l6 -6" class="fg"/>
     <path d="M42 48 l6 -6" class="bg1"/>
     <path d="M52 42 l6 6" class="bg1"/>
     <path d="M62 48 l6 -6" class="bg1"/>
@@ -200,15 +205,15 @@
     <path d="M312 42 l6 6" class="bg1"/>
     <path d="M322 48 l6 -6" class="bg1"/>
     <path d="M332 42 l6 6" class="bg1"/>
-    <path d="M342 48 l6 -6" class="bg2"/>
+    <path d="M342 42 l6 6" class="fg"/>
     <path d="M352 48 l6 -6" class="fg"/>
     <path d="M362 48 l6 -6" class="bg2"/>
-    <path d="M372 42 l6 6" class="bg2"/>
+    <path d="M372 48 l6 -6" class="fg"/>
     <!-- 6 -->
-    <path d="M2 58 l6 -6" class="fg"/>
-    <path d="M12 52 l6 6" class="fg"/>
-    <path d="M22 52 l6 6" class="bg2"/>
-    <path d="M32 52 l6 6" class="fg"/>
+    <path d="M2 52 l6 6" class="bg2"/>
+    <path d="M12 58 l6 -6" class="bg2"/>
+    <path d="M22 58 l6 -6" class="fg"/>
+    <path d="M32 58 l6 -6" class="bg2"/>
     <path d="M42 52 l6 6" class="bg1"/>
     <path d="M52 58 l6 -6" class="bg1"/>
     <path d="M62 52 l6 6" class="bg1"/>
@@ -239,15 +244,15 @@
     <path d="M312 58 l6 -6" class="bg1"/>
     <path d="M322 52 l6 6" class="bg1"/>
     <path d="M332 58 l6 -6" class="bg1"/>
-    <path d="M342 58 l6 -6" class="fg"/>
+    <path d="M342 52 l6 6" class="bg2"/>
     <path d="M352 58 l6 -6" class="bg2"/>
     <path d="M362 58 l6 -6" class="fg"/>
-    <path d="M372 52 l6 6" class="fg"/>
+    <path d="M372 58 l6 -6" class="bg2"/>
     <!-- 7 -->
-    <path d="M2 62 l6 6" class="fg"/>
+    <path d="M2 68 l6 -6" class="bg2"/>
     <path d="M12 68 l6 -6" class="fg"/>
     <path d="M22 68 l6 -6" class="bg2"/>
-    <path d="M32 68 l6 -6" class="fg"/>
+    <path d="M32 62 l6 6" class="bg2"/>
     <path d="M42 68 l6 -6" class="bg1"/>
     <path d="M52 62 l6 6" class="bg1"/>
     <path d="M62 68 l6 -6" class="bg1"/>
@@ -278,15 +283,15 @@
     <path d="M312 62 l6 6" class="bg1"/>
     <path d="M322 68 l6 -6" class="bg1"/>
     <path d="M332 62 l6 6" class="bg1"/>
-    <path d="M342 62 l6 6" class="fg"/>
-    <path d="M352 62 l6 6" class="bg2"/>
-    <path d="M362 62 l6 6" class="fg"/>
-    <path d="M372 68 l6 -6" class="fg"/>
+    <path d="M342 68 l6 -6" class="bg2"/>
+    <path d="M352 68 l6 -6" class="fg"/>
+    <path d="M362 68 l6 -6" class="bg2"/>
+    <path d="M372 62 l6 6" class="bg2"/>
     <!-- 8 -->
-    <path d="M2 72 l6 6" class="bg2"/>
+    <path d="M2 78 l6 -6" class="fg"/>
     <path d="M12 78 l6 -6" class="bg2"/>
     <path d="M22 78 l6 -6" class="fg"/>
-    <path d="M32 78 l6 -6" class="bg2"/>
+    <path d="M32 72 l6 6" class="fg"/>
     <path d="M42 72 l6 6" class="bg1"/>
     <path d="M52 78 l6 -6" class="bg1"/>
     <path d="M62 72 l6 6" class="bg1"/>
@@ -317,15 +322,15 @@
     <path d="M312 78 l6 -6" class="bg1"/>
     <path d="M322 72 l6 6" class="bg1"/>
     <path d="M332 78 l6 -6" class="bg1"/>
-    <path d="M342 72 l6 6" class="bg2"/>
-    <path d="M352 72 l6 6" class="fg"/>
-    <path d="M362 72 l6 6" class="bg2"/>
-    <path d="M372 78 l6 -6" class="bg2"/>
+    <path d="M342 78 l6 -6" class="fg"/>
+    <path d="M352 78 l6 -6" class="bg2"/>
+    <path d="M362 78 l6 -6" class="fg"/>
+    <path d="M372 72 l6 6" class="fg"/>
     <!-- 9 -->
-    <path d="M2 88 l6 -6" class="bg2"/>
-    <path d="M12 88 l6 -6" class="fg"/>
-    <path d="M22 88 l6 -6" class="bg2"/>
-    <path d="M32 82 l6 6" class="bg2"/>
+    <path d="M2 82 l6 6" class="fg"/>
+    <path d="M12 82 l6 6" class="bg2"/>
+    <path d="M22 82 l6 6" class="fg"/>
+    <path d="M32 88 l6 -6" class="fg"/>
     <path d="M42 88 l6 -6" class="bg1"/>
     <path d="M52 82 l6 6" class="bg1"/>
     <path d="M62 82 l6 6" class="fg"/>
@@ -356,15 +361,15 @@
     <path d="M312 88 l6 -6" class="fg"/>
     <path d="M322 88 l6 -6" class="bg1"/>
     <path d="M332 82 l6 6" class="bg1"/>
-    <path d="M342 88 l6 -6" class="bg2"/>
+    <path d="M342 82 l6 6" class="fg"/>
     <path d="M352 82 l6 6" class="bg2"/>
     <path d="M362 82 l6 6" class="fg"/>
-    <path d="M372 82 l6 6" class="bg2"/>
+    <path d="M372 88 l6 -6" class="fg"/>
     <!-- 10 -->
-    <path d="M2 98 l6 -6" class="fg"/>
-    <path d="M12 98 l6 -6" class="bg2"/>
-    <path d="M22 98 l6 -6" class="fg"/>
-    <path d="M32 92 l6 6" class="fg"/>
+    <path d="M2 92 l6 6" class="bg2"/>
+    <path d="M12 92 l6 6" class="fg"/>
+    <path d="M22 92 l6 6" class="bg2"/>
+    <path d="M32 98 l6 -6" class="bg2"/>
     <path d="M42 92 l6 6" class="bg1"/>
     <path d="M52 98 l6 -6" class="bg1"/>
     <path d="M62 92 l6 6" class="bg1"/>
@@ -395,15 +400,15 @@
     <path d="M312 98 l6 -6" class="bg1"/>
     <path d="M322 92 l6 6" class="bg1"/>
     <path d="M332 98 l6 -6" class="bg1"/>
-    <path d="M342 98 l6 -6" class="fg"/>
+    <path d="M342 92 l6 6" class="bg2"/>
     <path d="M352 92 l6 6" class="fg"/>
     <path d="M362 92 l6 6" class="bg2"/>
-    <path d="M372 92 l6 6" class="fg"/>
+    <path d="M372 98 l6 -6" class="bg2"/>
     <!-- 11 -->
-    <path d="M2 102 l6 6" class="fg"/>
+    <path d="M2 108 l6 -6" class="bg2"/>
     <path d="M12 102 l6 6" class="bg2"/>
     <path d="M22 102 l6 6" class="fg"/>
-    <path d="M32 108 l6 -6" class="fg"/>
+    <path d="M32 102 l6 6" class="bg2"/>
     <path d="M42 108 l6 -6" class="bg1"/>
     <path d="M52 102 l6 6" class="bg1"/>
     <path d="M62 108 l6 -6" class="bg1"/>
@@ -434,15 +439,15 @@
     <path d="M312 102 l6 6" class="bg1"/>
     <path d="M322 108 l6 -6" class="bg1"/>
     <path d="M332 102 l6 6" class="bg1"/>
-    <path d="M342 102 l6 6" class="fg"/>
-    <path d="M352 108 l6 -6" class="fg"/>
-    <path d="M362 108 l6 -6" class="bg2"/>
-    <path d="M372 108 l6 -6" class="fg"/>
+    <path d="M342 108 l6 -6" class="bg2"/>
+    <path d="M352 102 l6 6" class="bg2"/>
+    <path d="M362 102 l6 6" class="fg"/>
+    <path d="M372 102 l6 6" class="bg2"/>
     <!-- 12 -->
-    <path d="M2 112 l6 6" class="bg2"/>
+    <path d="M2 118 l6 -6" class="fg"/>
     <path d="M12 112 l6 6" class="fg"/>
     <path d="M22 112 l6 6" class="bg2"/>
-    <path d="M32 118 l6 -6" class="bg2"/>
+    <path d="M32 112 l6 6" class="fg"/>
     <path d="M42 112 l6 6" class="bg1"/>
     <path d="M52 118 l6 -6" class="bg1"/>
     <path d="M62 112 l6 6" class="bg1"/>
@@ -473,15 +478,15 @@
     <path d="M312 118 l6 -6" class="bg1"/>
     <path d="M322 112 l6 6" class="bg1"/>
     <path d="M332 118 l6 -6" class="bg1"/>
-    <path d="M342 112 l6 6" class="bg2"/>
-    <path d="M352 118 l6 -6" class="bg2"/>
-    <path d="M362 118 l6 -6" class="fg"/>
-    <path d="M372 118 l6 -6" class="bg2"/>
+    <path d="M342 118 l6 -6" class="fg"/>
+    <path d="M352 112 l6 6" class="fg"/>
+    <path d="M362 112 l6 6" class="bg2"/>
+    <path d="M372 112 l6 6" class="fg"/>
     <!-- 13 -->
-    <path d="M2 128 l6 -6" class="bg2"/>
-    <path d="M12 122 l6 6" class="bg2"/>
-    <path d="M22 122 l6 6" class="fg"/>
-    <path d="M32 122 l6 6" class="bg2"/>
+    <path d="M2 122 l6 6" class="fg"/>
+    <path d="M12 128 l6 -6" class="fg"/>
+    <path d="M22 128 l6 -6" class="bg2"/>
+    <path d="M32 128 l6 -6" class="fg"/>
     <path d="M42 128 l6 -6" class="bg1"/>
     <path d="M52 122 l6 6" class="bg1"/>
     <path d="M62 128 l6 -6" class="bg1"/>
@@ -512,15 +517,15 @@
     <path d="M312 122 l6 6" class="bg1"/>
     <path d="M322 128 l6 -6" class="bg1"/>
     <path d="M332 122 l6 6" class="bg1"/>
-    <path d="M342 128 l6 -6" class="bg2"/>
+    <path d="M342 122 l6 6" class="fg"/>
     <path d="M352 128 l6 -6" class="fg"/>
     <path d="M362 128 l6 -6" class="bg2"/>
-    <path d="M372 122 l6 6" class="bg2"/>
+    <path d="M372 128 l6 -6" class="fg"/>
     <!-- 14 -->
-    <path d="M2 138 l6 -6" class="fg"/>
-    <path d="M12 132 l6 6" class="fg"/>
-    <path d="M22 132 l6 6" class="bg2"/>
-    <path d="M32 132 l6 6" class="fg"/>
+    <path d="M2 132 l6 6" class="bg2"/>
+    <path d="M12 138 l6 -6" class="bg2"/>
+    <path d="M22 138 l6 -6" class="fg"/>
+    <path d="M32 138 l6 -6" class="bg2"/>
     <path d="M42 132 l6 6" class="bg1"/>
     <path d="M52 138 l6 -6" class="bg1"/>
     <path d="M62 132 l6 6" class="bg1"/>
@@ -551,15 +556,15 @@
     <path d="M312 138 l6 -6" class="bg1"/>
     <path d="M322 132 l6 6" class="bg1"/>
     <path d="M332 138 l6 -6" class="bg1"/>
-    <path d="M342 138 l6 -6" class="fg"/>
+    <path d="M342 132 l6 6" class="bg2"/>
     <path d="M352 138 l6 -6" class="bg2"/>
     <path d="M362 138 l6 -6" class="fg"/>
-    <path d="M372 132 l6 6" class="fg"/>
+    <path d="M372 138 l6 -6" class="bg2"/>
     <!-- 15 -->
-    <path d="M2 142 l6 6" class="fg"/>
+    <path d="M2 148 l6 -6" class="bg2"/>
     <path d="M12 148 l6 -6" class="fg"/>
     <path d="M22 148 l6 -6" class="bg2"/>
-    <path d="M32 148 l6 -6" class="fg"/>
+    <path d="M32 142 l6 6" class="bg2"/>
     <path d="M42 148 l6 -6" class="bg1"/>
     <path d="M52 142 l6 6" class="bg1"/>
     <path d="M62 148 l6 -6" class="bg1"/>
@@ -590,15 +595,15 @@
     <path d="M312 142 l6 6" class="bg1"/>
     <path d="M322 148 l6 -6" class="bg1"/>
     <path d="M332 142 l6 6" class="bg1"/>
-    <path d="M342 142 l6 6" class="fg"/>
-    <path d="M352 142 l6 6" class="bg2"/>
-    <path d="M362 142 l6 6" class="fg"/>
-    <path d="M372 148 l6 -6" class="fg"/>
+    <path d="M342 148 l6 -6" class="bg2"/>
+    <path d="M352 148 l6 -6" class="fg"/>
+    <path d="M362 148 l6 -6" class="bg2"/>
+    <path d="M372 142 l6 6" class="bg2"/>
     <!-- 16 -->
-    <path d="M2 152 l6 6" class="bg2"/>
+    <path d="M2 158 l6 -6" class="fg"/>
     <path d="M12 158 l6 -6" class="bg2"/>
     <path d="M22 158 l6 -6" class="fg"/>
-    <path d="M32 158 l6 -6" class="bg2"/>
+    <path d="M32 152 l6 6" class="fg"/>
     <path d="M42 152 l6 6" class="bg1"/>
     <path d="M52 158 l6 -6" class="bg1"/>
     <path d="M62 158 l6 -6" class="fg"/>
@@ -629,15 +634,15 @@
     <path d="M312 152 l6 6" class="fg"/>
     <path d="M322 152 l6 6" class="bg1"/>
     <path d="M332 158 l6 -6" class="bg1"/>
-    <path d="M342 152 l6 6" class="bg2"/>
-    <path d="M352 152 l6 6" class="fg"/>
-    <path d="M362 152 l6 6" class="bg2"/>
-    <path d="M372 158 l6 -6" class="bg2"/>
+    <path d="M342 158 l6 -6" class="fg"/>
+    <path d="M352 158 l6 -6" class="bg2"/>
+    <path d="M362 158 l6 -6" class="fg"/>
+    <path d="M372 152 l6 6" class="fg"/>
     <!-- 17 -->
-    <path d="M2 168 l6 -6" class="bg2"/>
-    <path d="M12 168 l6 -6" class="fg"/>
-    <path d="M22 168 l6 -6" class="bg2"/>
-    <path d="M32 162 l6 6" class="bg2"/>
+    <path d="M2 162 l6 6" class="fg"/>
+    <path d="M12 162 l6 6" class="bg2"/>
+    <path d="M22 162 l6 6" class="fg"/>
+    <path d="M32 168 l6 -6" class="fg"/>
     <path d="M42 168 l6 -6" class="bg1"/>
     <path d="M52 162 l6 6" class="bg1"/>
     <path d="M62 168 l6 -6" class="bg1"/>
@@ -668,15 +673,15 @@
     <path d="M312 162 l6 6" class="bg1"/>
     <path d="M322 168 l6 -6" class="bg1"/>
     <path d="M332 162 l6 6" class="bg1"/>
-    <path d="M342 168 l6 -6" class="bg2"/>
+    <path d="M342 162 l6 6" class="fg"/>
     <path d="M352 162 l6 6" class="bg2"/>
     <path d="M362 162 l6 6" class="fg"/>
-    <path d="M372 162 l6 6" class="bg2"/>
+    <path d="M372 168 l6 -6" class="fg"/>
     <!-- 18 -->
-    <path d="M2 178 l6 -6" class="fg"/>
-    <path d="M12 178 l6 -6" class="bg2"/>
-    <path d="M22 178 l6 -6" class="fg"/>
-    <path d="M32 172 l6 6" class="fg"/>
+    <path d="M2 172 l6 6" class="bg2"/>
+    <path d="M12 172 l6 6" class="fg"/>
+    <path d="M22 172 l6 6" class="bg2"/>
+    <path d="M32 178 l6 -6" class="bg2"/>
     <path d="M42 172 l6 6" class="bg1"/>
     <path d="M52 178 l6 -6" class="bg1"/>
     <path d="M62 172 l6 6" class="bg1"/>
@@ -707,15 +712,15 @@
     <path d="M312 178 l6 -6" class="bg1"/>
     <path d="M322 172 l6 6" class="bg1"/>
     <path d="M332 178 l6 -6" class="bg1"/>
-    <path d="M342 178 l6 -6" class="fg"/>
+    <path d="M342 172 l6 6" class="bg2"/>
     <path d="M352 172 l6 6" class="fg"/>
     <path d="M362 172 l6 6" class="bg2"/>
-    <path d="M372 172 l6 6" class="fg"/>
+    <path d="M372 178 l6 -6" class="bg2"/>
     <!-- 19 -->
-    <path d="M2 182 l6 6" class="fg"/>
+    <path d="M2 188 l6 -6" class="bg2"/>
     <path d="M12 182 l6 6" class="bg2"/>
     <path d="M22 182 l6 6" class="fg"/>
-    <path d="M32 188 l6 -6" class="fg"/>
+    <path d="M32 182 l6 6" class="bg2"/>
     <path d="M42 188 l6 -6" class="bg1"/>
     <path d="M52 182 l6 6" class="bg1"/>
     <path d="M62 188 l6 -6" class="bg1"/>
@@ -746,15 +751,15 @@
     <path d="M312 182 l6 6" class="bg1"/>
     <path d="M322 188 l6 -6" class="bg1"/>
     <path d="M332 182 l6 6" class="bg1"/>
-    <path d="M342 182 l6 6" class="fg"/>
-    <path d="M352 188 l6 -6" class="fg"/>
-    <path d="M362 188 l6 -6" class="bg2"/>
-    <path d="M372 188 l6 -6" class="fg"/>
+    <path d="M342 188 l6 -6" class="bg2"/>
+    <path d="M352 182 l6 6" class="bg2"/>
+    <path d="M362 182 l6 6" class="fg"/>
+    <path d="M372 182 l6 6" class="bg2"/>
     <!-- 20 -->
-    <path d="M2 192 l6 6" class="bg2"/>
+    <path d="M2 198 l6 -6" class="fg"/>
     <path d="M12 192 l6 6" class="fg"/>
     <path d="M22 192 l6 6" class="bg2"/>
-    <path d="M32 198 l6 -6" class="bg2"/>
+    <path d="M32 192 l6 6" class="fg"/>
     <path d="M42 192 l6 6" class="bg1"/>
     <path d="M52 198 l6 -6" class="bg1"/>
     <path d="M62 192 l6 6" class="bg1"/>
@@ -785,15 +790,15 @@
     <path d="M312 198 l6 -6" class="bg1"/>
     <path d="M322 192 l6 6" class="bg1"/>
     <path d="M332 198 l6 -6" class="bg1"/>
-    <path d="M342 192 l6 6" class="bg2"/>
-    <path d="M352 198 l6 -6" class="bg2"/>
-    <path d="M362 198 l6 -6" class="fg"/>
-    <path d="M372 198 l6 -6" class="bg2"/>
+    <path d="M342 198 l6 -6" class="fg"/>
+    <path d="M352 192 l6 6" class="fg"/>
+    <path d="M362 192 l6 6" class="bg2"/>
+    <path d="M372 192 l6 6" class="fg"/>
     <!-- 21 -->
-    <path d="M2 208 l6 -6" class="bg2"/>
-    <path d="M12 202 l6 6" class="bg2"/>
-    <path d="M22 202 l6 6" class="fg"/>
-    <path d="M32 202 l6 6" class="bg2"/>
+    <path d="M2 202 l6 6" class="fg"/>
+    <path d="M12 208 l6 -6" class="fg"/>
+    <path d="M22 208 l6 -6" class="bg2"/>
+    <path d="M32 208 l6 -6" class="fg"/>
     <path d="M42 208 l6 -6" class="bg1"/>
     <path d="M52 202 l6 6" class="bg1"/>
     <path d="M62 208 l6 -6" class="bg1"/>
@@ -824,15 +829,15 @@
     <path d="M312 202 l6 6" class="bg1"/>
     <path d="M322 208 l6 -6" class="bg1"/>
     <path d="M332 202 l6 6" class="bg1"/>
-    <path d="M342 208 l6 -6" class="bg2"/>
+    <path d="M342 202 l6 6" class="fg"/>
     <path d="M352 208 l6 -6" class="fg"/>
     <path d="M362 208 l6 -6" class="bg2"/>
-    <path d="M372 202 l6 6" class="bg2"/>
+    <path d="M372 208 l6 -6" class="fg"/>
     <!-- 22 -->
-    <path d="M2 218 l6 -6" class="fg"/>
-    <path d="M12 212 l6 6" class="fg"/>
-    <path d="M22 212 l6 6" class="bg2"/>
-    <path d="M32 212 l6 6" class="fg"/>
+    <path d="M2 212 l6 6" class="bg2"/>
+    <path d="M12 218 l6 -6" class="bg2"/>
+    <path d="M22 218 l6 -6" class="fg"/>
+    <path d="M32 218 l6 -6" class="bg2"/>
     <path d="M42 212 l6 6" class="bg1"/>
     <path d="M52 218 l6 -6" class="bg1"/>
     <path d="M62 212 l6 6" class="bg1"/>
@@ -863,15 +868,15 @@
     <path d="M312 218 l6 -6" class="bg1"/>
     <path d="M322 212 l6 6" class="bg1"/>
     <path d="M332 218 l6 -6" class="bg1"/>
-    <path d="M342 218 l6 -6" class="fg"/>
+    <path d="M342 212 l6 6" class="bg2"/>
     <path d="M352 218 l6 -6" class="bg2"/>
     <path d="M362 218 l6 -6" class="fg"/>
-    <path d="M372 212 l6 6" class="fg"/>
+    <path d="M372 218 l6 -6" class="bg2"/>
     <!-- 23 -->
-    <path d="M2 222 l6 6" class="fg"/>
+    <path d="M2 228 l6 -6" class="bg2"/>
     <path d="M12 228 l6 -6" class="fg"/>
     <path d="M22 228 l6 -6" class="bg2"/>
-    <path d="M32 228 l6 -6" class="fg"/>
+    <path d="M32 222 l6 6" class="bg2"/>
     <path d="M42 228 l6 -6" class="bg1"/>
     <path d="M52 222 l6 6" class="bg1"/>
     <path d="M62 228 l6 -6" class="bg1"/>
@@ -902,15 +907,15 @@
     <path d="M312 222 l6 6" class="bg1"/>
     <path d="M322 228 l6 -6" class="bg1"/>
     <path d="M332 222 l6 6" class="bg1"/>
-    <path d="M342 222 l6 6" class="fg"/>
-    <path d="M352 222 l6 6" class="bg2"/>
-    <path d="M362 222 l6 6" class="fg"/>
-    <path d="M372 228 l6 -6" class="fg"/>
+    <path d="M342 228 l6 -6" class="bg2"/>
+    <path d="M352 228 l6 -6" class="fg"/>
+    <path d="M362 228 l6 -6" class="bg2"/>
+    <path d="M372 222 l6 6" class="bg2"/>
     <!-- 24 -->
-    <path d="M2 232 l6 6" class="bg2"/>
+    <path d="M2 238 l6 -6" class="fg"/>
     <path d="M12 238 l6 -6" class="bg2"/>
     <path d="M22 238 l6 -6" class="fg"/>
-    <path d="M32 238 l6 -6" class="bg2"/>
+    <path d="M32 232 l6 6" class="fg"/>
     <path d="M42 232 l6 6" class="bg1"/>
     <path d="M52 238 l6 -6" class="bg1"/>
     <path d="M62 232 l6 6" class="bg1"/>
@@ -941,9 +946,12 @@
     <path d="M312 238 l6 -6" class="bg1"/>
     <path d="M322 232 l6 6" class="bg1"/>
     <path d="M332 238 l6 -6" class="bg1"/>
-    <path d="M342 232 l6 6" class="bg2"/>
-    <path d="M352 232 l6 6" class="fg"/>
-    <path d="M362 232 l6 6" class="bg2"/>
-    <path d="M372 238 l6 -6" class="bg2"/>
+    <path d="M342 238 l6 -6" class="fg"/>
+    <path d="M352 238 l6 -6" class="bg2"/>
+    <path d="M362 238 l6 -6" class="fg"/>
+    <path d="M372 232 l6 6" class="fg"/>
   </g>
 </svg>
+<!--
+
+-->
