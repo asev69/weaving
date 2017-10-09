@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- http://aranyakanya.deviantart.com/art/Try-out-II-Cat-or-monkey-282900910 -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg"  version="1.1" height="612" width="560">
+  <metadata >
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs >
+    <style  type="text/css">
+      .grid { stroke: black; stroke-width: .4fg }
+      .fg { fill: white }
+      .bg { fill: blue }
+      .fb { fill: orange }
+      .bb { fill: green }
+    </style>
+  </defs>
+  <g transform="matrix(1,0,0,-1.7,0,612)" >
+    <rect y="0" x="0"  class="bg" height="100%" width="80"/>
+    <rect y="0"  class="bg" height="100%" width="400" x="80"/>
+    <rect y="0"  class="bg" height="100%" width="80" x="480"/>
+    <!-- 1 -->
+    <path  class="fg" d="m 10,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,0 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,0 h 20 v 10 h -20 z"/>
+    <!-- 2 -->
+    <path  class="fg" d="m 0,10 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 40,10 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 500,10 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 540,10 h 20 v 10 h -20 z"/>
+    <!-- 3 -->
+    <path  class="fg" d="m 0,20 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,20 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,20 h 10 v 10 h -10 z"/>
+    <!-- 4 -->
+    <path  class="fg" d="m 20,30 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 140,30 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 260,30 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 360,30 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 520,30 h 20 v 10 h -20 z"/>
+    <!-- 5 -->
+    <path  class="fg" d="m 10,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,40 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,40 h 20 v 10 h -20 z"/>
+    <!-- 6 -->
+    <path  class="fg" d="m 0,50 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 120,50 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 180,50 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 240,50 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 300,50 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 360,50 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 540,50 h 20 v 10 h -20 z"/>
+    <!-- 7 -->
+    <path  class="fg" d="m 0,60 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,60 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,60 h 10 v 10 h -10 z"/>
+    <!-- 8 -->
+    <path  class="fg" d="m 0,70 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 100,70 h 80 v 10 h -80 z"/>
+    <path  class="fg" d="m 200,70 h 100 v 10 h -100 z"/>
+    <path  class="fg" d="m 540,70 h 20 v 10 h -20 z"/>
+    <!-- 9 -->
+    <path  class="fg" d="m 10,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,80 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,80 h 20 v 10 h -20 z"/>
+    <!-- 10 -->
+    <path  class="fg" d="m 0,90 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 200,90 h 120 v 10 h -120 z"/>
+    <path  class="fg" d="m 520,90 h 40 v 10 h -40 z"/>
+    <!-- 11 -->
+    <path  class="fg" d="m 0,100 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,100 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,100 h 10 v 10 h -10 z"/>
+    <!-- 12 -->
+    <path  class="fg" d="m 20,110 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 200,110 h 120 v 10 h -120 z"/>
+    <path  class="fg" d="m 500,110 h 40 v 10 h -40 z"/>
+    <!-- 13 -->
+    <path  class="fg" d="m 10,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,120 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,120 h 20 v 10 h -20 z"/>
+    <!-- 14 -->
+    <path  class="fg" d="m 0,130 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 40,130 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 220,130 h 80 v 10 h -80 z"/>
+    <path  class="fg" d="m 320,130 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 380,130 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 440,130 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 500,130 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 540,130 h 20 v 10 h -20 z"/>
+    <!-- 15 -->
+    <path  class="fg" d="m 0,140 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,140 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,140 h 10 v 10 h -10 z"/>
+    <!-- 16 -->
+    <path  class="fg" d="m 20,150 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 180,150 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 240,150 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 300,150 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 340,150 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 400,150 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 520,150 h 20 v 10 h -20 z"/>
+    <!-- 17 -->
+    <path  class="fg" d="m 10,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,160 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,160 h 20 v 10 h -20 z"/>
+    <!-- 18 -->
+    <path  class="fg" d="m 0,170 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 160,170 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 220,170 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 280,170 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 340,170 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 400,170 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 540,170 h 20 v 10 h -20 z"/>
+    <!-- 19 -->
+    <path  class="fg" d="m 0,180 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,180 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,180 h 10 v 10 h -10 z"/>
+    <!-- 20 -->
+    <path  class="fg" d="m 0,190 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 140,190 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 240,190 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 320,190 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 380,190 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 540,190 h 20 v 10 h -20 z"/>
+    <!-- 21 -->
+    <path  class="fg" d="m 10,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,200 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,200 h 20 v 10 h -20 z"/>
+    <!-- 22 -->
+    <path  class="fg" d="m 0,210 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 120,210 h 80 v 10 h -80 z"/>
+    <path  class="fg" d="m 260,210 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 320,210 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 380,210 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 520,210 h 40 v 10 h -40 z"/>
+    <!-- 23 -->
+    <path  class="fg" d="m 0,220 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,220 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,220 h 10 v 10 h -10 z"/>
+    <!-- 24 -->
+    <path  class="fg" d="m 20,230 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 280,230 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 340,230 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 400,230 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 500,230 h 40 v 10 h -40 z"/>
+    <!-- 25 -->
+    <path  class="fg" d="m 10,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,240 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,240 h 20 v 10 h -20 z"/>
+    <!-- 26 -->
+    <path  class="fg" d="m 0,250 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 40,250 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 300,250 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 340,250 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 400,250 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 500,250 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 540,250 h 20 v 10 h -20 z"/>
+    <!-- 27 -->
+    <path  class="fg" d="m 0,260 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,260 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,260 h 10 v 10 h -10 z"/>
+    <!-- 28 -->
+    <path  class="fg" d="m 20,270 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 100,270 h 120 v 10 h -120 z"/>
+    <path  class="fg" d="m 320,270 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 380,270 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 440,270 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 520,270 h 20 v 10 h -20 z"/>
+    <!-- 29 -->
+    <path  class="fg" d="m 10,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,280 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,280 h 20 v 10 h -20 z"/>
+    <!-- 30 -->
+    <path  class="fg" d="m 0,290 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 100,290 h 120 v 10 h -120 z"/>
+    <path  class="fg" d="m 540,290 h 20 v 10 h -20 z"/>
+    <!-- 31 -->
+    <path  class="fg" d="m 0,300 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,300 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,300 h 10 v 10 h -10 z"/>
+    <!-- 32 -->
+    <path  class="fg" d="m 0,310 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 100,310 h 120 v 10 h -120 z"/>
+    <path  class="fg" d="m 540,310 h 20 v 10 h -20 z"/>
+    <!-- 33 -->
+    <path  class="fg" d="m 10,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 50,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 90,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 130,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 170,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 210,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 250,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 290,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 330,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 370,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 410,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 450,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 490,320 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 530,320 h 20 v 10 h -20 z"/>
+    <!-- 34 -->
+    <path  class="fg" d="m 0,330 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 100,330 h 120 v 10 h -120 z"/>
+    <path  class="fg" d="m 520,330 h 40 v 10 h -40 z"/>
+    <!-- 35 -->
+    <path  class="fg" d="m 0,340 h 10 v 10 h -10 z"/>
+    <path  class="fg" d="m 30,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 70,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 110,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 150,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 190,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 230,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 270,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 310,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 350,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 390,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 430,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 470,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 510,340 h 20 v 10 h -20 z"/>
+    <path  class="fg" d="m 550,340 h 10 v 10 h -10 z"/>
+    <!-- 36 -->
+    <path  class="fg" d="m 20,350 h 40 v 10 h -40 z"/>
+    <path  class="fg" d="m 500,350 h 40 v 10 h -40 z"/>
+    <!-- grid -->
+<!-- vertical lines -->
+    <path  class="grid" d="m 0,0 v 360"/>
+    <path  class="grid" d="m 10,0 v 360"/>
+    <path  class="grid" d="m 20,0 v 360"/>
+    <path  class="grid" d="m 30,0 v 360"/>
+    <path  class="grid" d="m 40,0 v 360"/>
+    <path  class="grid" d="m 50,0 v 360"/>
+    <path  class="grid" d="m 60,0 v 360"/>
+    <path  class="grid" d="m 70,0 v 360"/>
+    <path  class="grid" d="m 80,0 v 360"/>
+    <path  class="grid" d="m 90,0 v 360"/>
+    <path  class="grid" d="m 100,0 v 360"/>
+    <path  class="grid" d="m 110,0 v 360"/>
+    <path  class="grid" d="m 120,0 v 360"/>
+    <path  class="grid" d="m 130,0 v 360"/>
+    <path  class="grid" d="m 140,0 v 360"/>
+    <path  class="grid" d="m 150,0 v 360"/>
+    <path  class="grid" d="m 160,0 v 360"/>
+    <path  class="grid" d="m 170,0 v 360"/>
+    <path  class="grid" d="m 180,0 v 360"/>
+    <path  class="grid" d="m 190,0 v 360"/>
+    <path  class="grid" d="m 200,0 v 360"/>
+    <path  class="grid" d="m 210,0 v 360"/>
+    <path  class="grid" d="m 220,0 v 360"/>
+    <path  class="grid" d="m 230,0 v 360"/>
+    <path  class="grid" d="m 240,0 v 360"/>
+    <path  class="grid" d="m 250,0 v 360"/>
+    <path  class="grid" d="m 260,0 v 360"/>
+    <path  class="grid" d="m 270,0 v 360"/>
+    <path  class="grid" d="m 280,0 v 360"/>
+    <path  class="grid" d="m 290,0 v 360"/>
+    <path  class="grid" d="m 300,0 v 360"/>
+    <path  class="grid" d="m 310,0 v 360"/>
+    <path  class="grid" d="m 320,0 v 360"/>
+    <path  class="grid" d="m 330,0 v 360"/>
+    <path  class="grid" d="m 340,0 v 360"/>
+    <path  class="grid" d="m 350,0 v 360"/>
+    <path  class="grid" d="m 360,0 v 360"/>
+    <path  class="grid" d="m 370,0 v 360"/>
+    <path  class="grid" d="m 380,0 v 360"/>
+    <path  class="grid" d="m 390,0 v 360"/>
+    <path  class="grid" d="m 400,0 v 360"/>
+    <path  class="grid" d="m 410,0 v 360"/>
+    <path  class="grid" d="m 420,0 v 360"/>
+    <path  class="grid" d="m 430,0 v 360"/>
+    <path  class="grid" d="m 440,0 v 360"/>
+    <path  class="grid" d="m 450,0 v 360"/>
+    <path  class="grid" d="m 460,0 v 360"/>
+    <path  class="grid" d="m 470,0 v 360"/>
+    <path  class="grid" d="m 480,0 v 360"/>
+    <path  class="grid" d="m 490,0 v 360"/>
+    <path  class="grid" d="m 500,0 v 360"/>
+    <path  class="grid" d="m 510,0 v 360"/>
+    <path  class="grid" d="m 520,0 v 360"/>
+    <path  class="grid" d="m 530,0 v 360"/>
+    <path  class="grid" d="m 540,0 v 360"/>
+    <path  class="grid" d="m 550,0 v 360"/>
+    <path  class="grid" d="m 560,0 v 360"/>
+<!-- horizontal lines -->
+    <path  class="grid" d="m 0,0 h 560"/>
+    <path  class="grid" d="m 0,10 h 560"/>
+    <path  class="grid" d="m 0,20 h 560"/>
+    <path  class="grid" d="m 0,30 h 560"/>
+    <path  class="grid" d="m 0,40 h 560"/>
+    <path  class="grid" d="m 0,50 h 560"/>
+    <path  class="grid" d="m 0,60 h 560"/>
+    <path  class="grid" d="m 0,70 h 560"/>
+    <path  class="grid" d="m 0,80 h 560"/>
+    <path  class="grid" d="m 0,90 h 560"/>
+    <path  class="grid" d="m 0,100 h 560"/>
+    <path  class="grid" d="m 0,110 h 560"/>
+    <path  class="grid" d="m 0,120 h 560"/>
+    <path  class="grid" d="m 0,130 h 560"/>
+    <path  class="grid" d="m 0,140 h 560"/>
+    <path  class="grid" d="m 0,150 h 560"/>
+    <path  class="grid" d="m 0,160 h 560"/>
+    <path  class="grid" d="m 0,170 h 560"/>
+    <path  class="grid" d="m 0,180 h 560"/>
+    <path  class="grid" d="m 0,190 h 560"/>
+    <path  class="grid" d="m 0,200 h 560"/>
+    <path  class="grid" d="m 0,210 h 560"/>
+    <path  class="grid" d="m 0,220 h 560"/>
+    <path  class="grid" d="m 0,230 h 560"/>
+    <path  class="grid" d="m 0,240 h 560"/>
+    <path  class="grid" d="m 0,250 h 560"/>
+    <path  class="grid" d="m 0,260 h 560"/>
+    <path  class="grid" d="m 0,270 h 560"/>
+    <path  class="grid" d="m 0,280 h 560"/>
+    <path  class="grid" d="m 0,290 h 560"/>
+    <path  class="grid" d="m 0,300 h 560"/>
+    <path  class="grid" d="m 0,310 h 560"/>
+    <path  class="grid" d="m 0,320 h 560"/>
+    <path  class="grid" d="m 0,330 h 560"/>
+    <path  class="grid" d="m 0,340 h 560"/>
+    <path  class="grid" d="m 0,350 h 560"/>
+    <path  class="grid" d="m 0,360 h 560"/>
+  </g>
+</svg>
