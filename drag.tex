@@ -1,0 +1,92 @@
+\documentclass[a5paper]{article}
+\usepackage[a5paper,margin=3pc]{geometry}
+\usepackage[ebgaramond]{fontsetup}
+\usepackage{luamplib}
+\everymplib{ verbatimtex \leavevmode etex; beginfig(0); }
+\everyendmplib{ endfig; }
+
+\begin{document}
+\title{Pattern Repeat}
+\author{}
+\date{}
+\maketitle
+\centering
+\begin{mplibcode}
+  u:=12pt;
+  % make coordinate transform
+  def t(expr x, y) = (.5*(x+y),0.86602540378*(y-x)) enddef;
+  %
+  pickup pencircle scaled 3pt;
+  draw t(0,0)--t(2u,0);
+  draw t(3u,0)--t(9u,0);
+  %
+  path R;
+  R := t(10u,0)--t(10u,3u)--t(8u,u)--t(8u,3u)--t(6u,u)--t(6u,3u)--t(4u,u)
+    --t(4u,3u)--t(2u,u)--t(2u,3u)--t(0,u)--t(0,9u)--t(3u,9u)--t(3u,12u)
+    --t(9u,12u)--t(u,4u)--t(7u,4u)--t(7u,7u)--t(10u,7u)--t(10u,12u)
+    --t(11u,12u)--t(13u,12u)--t(11u,10u)--t(13u,10u)--t(11u,8u)--t(13u,8u)
+    --t(11u,6u)--t(13u,6u)--t(11u,4u)--t(13u,4u)--t(11u,2u)--t(13u,2u)
+    --t(11u,0)--cycle;
+  fill R withcolor .8white;
+  draw t(10u,0)--t(10u,3u)--t(8u,u)--t(8u,3u)--t(6u,u)--t(6u,3u)--t(4u,u)
+    --t(4u,3u)--t(2u,u)--t(2u,3u)--t(0,u)--t(0,9u)--t(3u,9u)--t(3u,12u)
+    --t(9u,12u)--t(u,4u)--t(7u,4u)--t(7u,7u)--t(10u,7u)--t(10u,12u);
+  draw t(11u,12u)--t(13u,12u)--t(11u,10u)--t(13u,10u)--t(11u,8u)--t(13u,8u)
+    --t(11u,6u)--t(13u,6u)--t(11u,4u)--t(13u,4u)--t(11u,2u)--t(13u,2u)
+    --t(11u,0)--t(13u,0);
+  %
+  draw t(14u,u)--t(14u,9u);
+  draw t(14u,10u)--t(14u,12u);
+  %
+  path P, PA, PB, PC, PD;
+  P := t(0,0)--t(0,u)--t(u,2u)--t(2u,2u)--t(2u,u)--t(u,0)--cycle;
+  PA := P shifted t(u,6u); unfill PA; draw PA;
+  PB := P shifted t(4u,9u); unfill PB; draw PB;
+  PC := P shifted t(4u,5u); fill PC withcolor .8white; draw PC;
+  PD := P shifted t(7u,8u); fill PD withcolor .8white; draw PD;
+  %
+  path Q, QA, QB;
+  Q := t(0,0)--t(2u,0)--t(2u,2u)--t(0,2u)--cycle;
+  QA := Q shifted t(0,10u); fill QA withcolor .8white; draw QA;
+  QB := Q shifted t(8u,4u); unfill QB; draw QB;
+  %
+  pickup pencircle scaled .4pt;
+  for j=0 upto 12:
+    for i=0 upto 14:
+      unfill fullcircle scaled 4pt shifted t(i*u,j*u);
+      draw fullcircle scaled 4pt shifted t(i*u,j*u);
+    endfor;
+  endfor;
+  %
+  label.lft(btex 0 etex,t(0,0));
+  label.llft(btex 1 etex,t(u,0));
+  label.llft(btex 2 etex,t(2u,0));
+  label.llft(btex 3 etex,t(3u,0));
+  label.llft(btex 4 etex,t(4u,0));
+  label.llft(btex 5 etex,t(5u,0));
+  label.llft(btex 6 etex,t(6u,0));
+  label.llft(btex 7 etex,t(7u,0));
+  label.llft(btex 8 etex,t(8u,0));
+  label.llft(btex 9 etex,t(9u,0));
+  label.llft(btex 10 etex,t(10u,0));
+  label.llft(btex 11 etex,t(11u,0));
+  label.llft(btex 12 etex,t(12u,0));
+  label.llft(btex 13 etex,t(13u,0));
+  label.llft(btex 14 etex,t(14u,0));
+  %
+  label.ulft(btex 1 etex,t(0,u));
+  label.ulft(btex 2 etex,t(0,2u));
+  label.ulft(btex 3 etex,t(0,3u));
+  label.ulft(btex 4 etex,t(0,4u));
+  label.ulft(btex 5 etex,t(0,5u));
+  label.ulft(btex 6 etex,t(0,6u));
+  label.ulft(btex 7 etex,t(0,7u));
+  label.ulft(btex 8 etex,t(0,8u));
+  label.ulft(btex 9 etex,t(0,9u));
+  label.ulft(btex 10 etex,t(0,10u));
+  label.ulft(btex 11 etex,t(0,11u));
+  label.ulft(btex 12 etex,t(0,12u));
+
+%  draw fullcircle transformed T rotated 120;
+\end{mplibcode}
+\end{document}
